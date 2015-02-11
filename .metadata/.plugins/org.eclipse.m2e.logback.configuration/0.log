@@ -1,0 +1,31 @@
+2015-02-11 21:44:12,710 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mozz:springboottest:0.0.1-SNAPSHOT @ /Users/tim/Documents/mozzdev/springboottest/pom.xml.
+2015-02-11 21:44:18,589 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 21:44:18,589 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-11 21:44:18,589 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-11 21:44:18,594 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 21:44:18,594 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/test/resources
+2015-02-11 21:44:21,582 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 21:44:21,601 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-11 21:44:21,601 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-11 21:44:21,604 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 21:44:21,604 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/test/resources
+2015-02-11 21:44:24,305 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 21:44:24,305 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-11 21:44:24,306 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-11 21:44:24,309 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 21:44:24,309 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/test/resources
+2015-02-11 21:46:04,948 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 21:46:04,960 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-11 21:46:04,960 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-11 21:46:04,963 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 21:46:04,963 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/test/resources
+2015-02-11 21:48:16,393 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 21:48:16,411 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-11 21:48:16,411 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-11 21:48:16,413 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 21:48:16,413 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/test/resources
+2015-02-11 21:48:31,710 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 21:48:31,711 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-11 21:48:31,711 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-11 21:48:31,713 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 21:48:31,714 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/test/resources
