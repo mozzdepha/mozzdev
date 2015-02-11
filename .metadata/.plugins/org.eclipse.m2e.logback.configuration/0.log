@@ -29,3 +29,224 @@
 2015-02-11 21:48:31,711 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
 2015-02-11 21:48:31,713 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-02-11 21:48:31,714 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/test/resources
+2015-02-11 22:09:28,316 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/tim/Documents/mozzdev/recordcollection/pom.xml
+2015-02-11 22:09:31,062 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mozz:recordcollection:0.0.1-SNAPSHOT @ /Users/tim/Documents/mozzdev/recordcollection/pom.xml.
+2015-02-11 22:09:31,788 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mozz:recordcollection:0.0.1-SNAPSHOT @ /Users/tim/Documents/mozzdev/recordcollection/pom.xml.
+2015-02-11 22:09:31,793 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /recordcollection/src/main/java
+2015-02-11 22:09:31,802 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /recordcollection/src/test/java
+2015-02-11 22:09:32,049 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2015-02-11 22:09:33,028 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mozz:recordcollection:0.0.1-SNAPSHOT @ /Users/tim/Documents/mozzdev/recordcollection/pom.xml.
+2015-02-11 22:09:33,143 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:09:33,143 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:09:33,146 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:09:33,146 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:11:15,452 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mozz:recordcollection:0.0.1-SNAPSHOT @ /Users/tim/Documents/mozzdev/recordcollection/pom.xml.
+2015-02-11 22:11:18,298 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/springframework/data/spring-data-rest-webmvc/2.2.1.RELEASE/spring-data-rest-webmvc-2.2.1.RELEASE.pom
+2015-02-11 22:11:18,435 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/springframework/data/spring-data-rest-webmvc/2.2.1.RELEASE/spring-data-rest-webmvc-2.2.1.RELEASE.pom
+2015-02-11 22:11:18,581 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-webmvc/2.2.1.RELEASE/spring-data-rest-webmvc-2.2.1.RELEASE.pom
+2015-02-11 22:11:18,887 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/springframework/data/spring-data-rest-parent/2.2.1.RELEASE/spring-data-rest-parent-2.2.1.RELEASE.pom
+2015-02-11 22:11:19,037 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/springframework/data/spring-data-rest-parent/2.2.1.RELEASE/spring-data-rest-parent-2.2.1.RELEASE.pom
+2015-02-11 22:11:19,163 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-parent/2.2.1.RELEASE/spring-data-rest-parent-2.2.1.RELEASE.pom
+2015-02-11 22:11:19,593 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/springframework/data/spring-data-rest-core/2.2.1.RELEASE/spring-data-rest-core-2.2.1.RELEASE.pom
+2015-02-11 22:11:19,777 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/springframework/data/spring-data-rest-core/2.2.1.RELEASE/spring-data-rest-core-2.2.1.RELEASE.pom
+2015-02-11 22:11:19,933 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-core/2.2.1.RELEASE/spring-data-rest-core-2.2.1.RELEASE.pom
+2015-02-11 22:11:20,517 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/springframework/hateoas/spring-hateoas/0.16.0.RELEASE/spring-hateoas-0.16.0.RELEASE.pom
+2015-02-11 22:11:20,664 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/springframework/hateoas/spring-hateoas/0.16.0.RELEASE/spring-hateoas-0.16.0.RELEASE.pom
+2015-02-11 22:11:20,802 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/springframework/hateoas/spring-hateoas/0.16.0.RELEASE/spring-hateoas-0.16.0.RELEASE.pom
+2015-02-11 22:11:21,404 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/springframework/plugin/spring-plugin-core/1.1.0.RELEASE/spring-plugin-core-1.1.0.RELEASE.pom
+2015-02-11 22:11:21,559 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/springframework/plugin/spring-plugin-core/1.1.0.RELEASE/spring-plugin-core-1.1.0.RELEASE.pom
+2015-02-11 22:11:21,721 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/springframework/plugin/spring-plugin-core/1.1.0.RELEASE/spring-plugin-core-1.1.0.RELEASE.pom
+2015-02-11 22:11:22,462 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/springframework/plugin/spring-plugin/1.1.0.RELEASE/spring-plugin-1.1.0.RELEASE.pom
+2015-02-11 22:11:22,625 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/springframework/plugin/spring-plugin/1.1.0.RELEASE/spring-plugin-1.1.0.RELEASE.pom
+2015-02-11 22:11:22,973 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/springframework/plugin/spring-plugin/1.1.0.RELEASE/spring-plugin-1.1.0.RELEASE.pom
+2015-02-11 22:11:23,507 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/atteo/evo-inflector/1.2/evo-inflector-1.2.pom
+2015-02-11 22:11:23,646 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/atteo/evo-inflector/1.2/evo-inflector-1.2.pom
+2015-02-11 22:11:23,766 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/atteo/evo-inflector/1.2/evo-inflector-1.2.pom
+2015-02-11 22:11:24,610 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/atteo/parent/1.10/parent-1.10.pom
+2015-02-11 22:11:24,748 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/atteo/parent/1.10/parent-1.10.pom
+2015-02-11 22:11:24,870 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/atteo/parent/1.10/parent-1.10.pom
+2015-02-11 22:11:25,799 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/com/github/fge/json-patch/1.7/json-patch-1.7.pom
+2015-02-11 22:11:25,924 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/com/github/fge/json-patch/1.7/json-patch-1.7.pom
+2015-02-11 22:11:26,079 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/com/github/fge/json-patch/1.7/json-patch-1.7.pom
+2015-02-11 22:11:26,564 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/com/github/fge/jackson-coreutils/1.6/jackson-coreutils-1.6.pom
+2015-02-11 22:11:26,767 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/com/github/fge/jackson-coreutils/1.6/jackson-coreutils-1.6.pom
+2015-02-11 22:11:26,923 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/com/github/fge/jackson-coreutils/1.6/jackson-coreutils-1.6.pom
+2015-02-11 22:11:27,502 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/com/github/fge/msg-simple/1.1/msg-simple-1.1.pom
+2015-02-11 22:11:27,648 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/com/github/fge/msg-simple/1.1/msg-simple-1.1.pom
+2015-02-11 22:11:27,799 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/com/github/fge/msg-simple/1.1/msg-simple-1.1.pom
+2015-02-11 22:11:28,347 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/com/github/fge/btf/1.2/btf-1.2.pom
+2015-02-11 22:11:28,504 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/com/github/fge/btf/1.2/btf-1.2.pom
+2015-02-11 22:11:28,661 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/com/github/fge/btf/1.2/btf-1.2.pom
+2015-02-11 22:11:29,133 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/com/google/guava/guava/16.0.1/guava-16.0.1.pom
+2015-02-11 22:11:29,255 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/com/google/guava/guava/16.0.1/guava-16.0.1.pom
+2015-02-11 22:11:29,374 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/com/google/guava/guava/16.0.1/guava-16.0.1.pom
+2015-02-11 22:11:29,831 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
+2015-02-11 22:11:29,950 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
+2015-02-11 22:11:30,071 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
+2015-02-11 22:11:33,724 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/springframework/data/spring-data-rest-webmvc/2.2.1.RELEASE/spring-data-rest-webmvc-2.2.1.RELEASE.jar
+2015-02-11 22:11:33,827 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/springframework/data/spring-data-rest-core/2.2.1.RELEASE/spring-data-rest-core-2.2.1.RELEASE.jar
+2015-02-11 22:11:33,929 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/springframework/hateoas/spring-hateoas/0.16.0.RELEASE/spring-hateoas-0.16.0.RELEASE.jar
+2015-02-11 22:11:34,031 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/springframework/plugin/spring-plugin-core/1.1.0.RELEASE/spring-plugin-core-1.1.0.RELEASE.jar
+2015-02-11 22:11:34,134 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/atteo/evo-inflector/1.2/evo-inflector-1.2.jar
+2015-02-11 22:11:34,238 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/com/github/fge/json-patch/1.7/json-patch-1.7.jar
+2015-02-11 22:11:34,346 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/com/github/fge/jackson-coreutils/1.6/jackson-coreutils-1.6.jar
+2015-02-11 22:11:34,459 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/com/github/fge/msg-simple/1.1/msg-simple-1.1.jar
+2015-02-11 22:11:34,566 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/com/github/fge/btf/1.2/btf-1.2.jar
+2015-02-11 22:11:34,669 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/com/google/guava/guava/16.0.1/guava-16.0.1.jar
+2015-02-11 22:11:34,812 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/springframework/data/spring-data-rest-webmvc/2.2.1.RELEASE/spring-data-rest-webmvc-2.2.1.RELEASE.jar
+2015-02-11 22:11:34,931 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/springframework/data/spring-data-rest-core/2.2.1.RELEASE/spring-data-rest-core-2.2.1.RELEASE.jar
+2015-02-11 22:11:35,043 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/springframework/hateoas/spring-hateoas/0.16.0.RELEASE/spring-hateoas-0.16.0.RELEASE.jar
+2015-02-11 22:11:35,156 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/springframework/plugin/spring-plugin-core/1.1.0.RELEASE/spring-plugin-core-1.1.0.RELEASE.jar
+2015-02-11 22:11:35,263 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/atteo/evo-inflector/1.2/evo-inflector-1.2.jar
+2015-02-11 22:11:35,368 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/com/github/fge/json-patch/1.7/json-patch-1.7.jar
+2015-02-11 22:11:35,475 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/com/github/fge/jackson-coreutils/1.6/jackson-coreutils-1.6.jar
+2015-02-11 22:11:35,599 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/com/github/fge/msg-simple/1.1/msg-simple-1.1.jar
+2015-02-11 22:11:35,719 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/com/github/fge/btf/1.2/btf-1.2.jar
+2015-02-11 22:11:35,873 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/com/google/guava/guava/16.0.1/guava-16.0.1.jar
+2015-02-11 22:11:36,052 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-webmvc/2.2.1.RELEASE/spring-data-rest-webmvc-2.2.1.RELEASE.jar
+2015-02-11 22:11:36,191 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-core/2.2.1.RELEASE/spring-data-rest-core-2.2.1.RELEASE.jar
+2015-02-11 22:11:36,315 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/springframework/hateoas/spring-hateoas/0.16.0.RELEASE/spring-hateoas-0.16.0.RELEASE.jar
+2015-02-11 22:11:36,444 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/springframework/plugin/spring-plugin-core/1.1.0.RELEASE/spring-plugin-core-1.1.0.RELEASE.jar
+2015-02-11 22:11:36,571 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/atteo/evo-inflector/1.2/evo-inflector-1.2.jar
+2015-02-11 22:11:36,725 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/com/github/fge/json-patch/1.7/json-patch-1.7.jar
+2015-02-11 22:11:36,840 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/com/github/fge/jackson-coreutils/1.6/jackson-coreutils-1.6.jar
+2015-02-11 22:11:36,950 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/com/github/fge/msg-simple/1.1/msg-simple-1.1.jar
+2015-02-11 22:11:37,307 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/com/github/fge/btf/1.2/btf-1.2.jar
+2015-02-11 22:11:37,478 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/com/google/guava/guava/16.0.1/guava-16.0.1.jar
+2015-02-11 22:11:39,245 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mozz:springboottest:0.0.1-SNAPSHOT @ /Users/tim/Documents/mozzdev/springboottest/pom.xml.
+2015-02-11 22:11:40,101 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:11:40,101 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:11:40,101 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:11:40,103 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:11:40,103 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:11:40,414 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:11:40,414 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-11 22:11:40,414 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-11 22:11:40,417 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:11:40,417 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/test/resources
+2015-02-11 22:11:41,879 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:11:41,879 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:11:41,879 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:11:41,882 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:11:41,882 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:12:49,919 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-11 22:12:49,995 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mozz:recordcollection:0.0.1-SNAPSHOT @ /Users/tim/Documents/mozzdev/recordcollection/pom.xml.
+2015-02-11 22:12:50,359 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /recordcollection/src/main/java
+2015-02-11 22:12:50,359 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /recordcollection/src/test/java
+2015-02-11 22:12:50,587 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mozz:recordcollection:0.0.1-SNAPSHOT @ /Users/tim/Documents/mozzdev/recordcollection/pom.xml.
+2015-02-11 22:12:50,710 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-02-11 22:12:51,211 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:12:51,211 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:12:51,211 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:12:51,214 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:12:51,214 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:13:28,973 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:13:28,973 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:13:28,973 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:13:28,976 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:13:28,976 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:14:06,842 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:14:06,842 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:14:06,842 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:14:06,844 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:14:06,845 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:14:08,091 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:14:08,091 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:14:08,091 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:14:08,093 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:14:08,094 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:14:15,392 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:14:15,392 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:14:15,392 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:14:15,396 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:14:15,396 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:14:17,808 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:14:17,808 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:14:17,808 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:14:17,809 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:14:17,810 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:14:44,049 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:14:44,049 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:14:44,049 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:14:44,052 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:14:44,052 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:16:26,620 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:16:26,620 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:16:26,620 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:16:26,623 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:16:26,623 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:20:12,523 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:20:12,524 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:20:12,524 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:20:12,527 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:20:12,527 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:20:18,998 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:20:18,998 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:20:18,998 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:20:19,000 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:20:19,001 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:20:48,786 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:20:48,786 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:20:48,786 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:20:48,787 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:20:48,788 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:21:08,812 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:21:08,812 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:21:08,813 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:21:08,815 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:21:08,815 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:22:13,562 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:22:13,563 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:22:13,563 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:22:13,565 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:22:13,565 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:22:34,743 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:22:34,743 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:22:34,743 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:22:34,745 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:22:34,745 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:22:53,383 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:22:53,383 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:22:53,383 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:22:53,385 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:22:53,386 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:23:01,175 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:23:01,176 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:23:01,176 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:23:01,178 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:23:01,178 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:23:05,989 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:23:05,989 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:23:05,989 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:23:05,993 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:23:05,993 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:23:07,912 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:23:07,913 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:23:07,913 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:23:07,915 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:23:07,915 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:23:41,320 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:23:41,320 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:23:41,320 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:23:41,322 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:23:41,322 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:26:04,880 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:26:04,880 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:26:04,881 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:26:04,882 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:26:04,883 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:27:04,000 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:27:04,009 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:27:04,010 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:27:04,012 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:27:04,013 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:27:27,597 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:27:27,597 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:27:27,598 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:27:27,599 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:27:27,600 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources
+2015-02-11 22:27:37,972 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:27:37,972 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:27:37,972 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/main/resources
+2015-02-11 22:27:37,974 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-11 22:27:37,974 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/recordcollection/src/test/resources

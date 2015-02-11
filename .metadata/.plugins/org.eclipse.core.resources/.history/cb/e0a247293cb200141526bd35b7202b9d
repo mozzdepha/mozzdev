@@ -1,0 +1,13 @@
+README
+
+Goals of the project
+
+o Create projects using spring-boot
+o Simple CRUD using JPA
+o Integration of JPA with hibernate/MYSQL
+o Integration of JPA with postgresql
+o Creation of multiple standalone (micro?)services from single codebase (if this is desirable)
+o Collaboration of services via some kind of integration bus
+o Security token management across services
+o Horizontal scalability / fault tolerance of services
+o UI via Vaadin

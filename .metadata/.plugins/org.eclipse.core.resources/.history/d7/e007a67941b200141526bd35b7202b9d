@@ -1,0 +1,18 @@
+package com.mozz.recordcollection.repositories;
+
+import org.junit.Test;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.context.annotation.Configuration;
+
+import junit.framework.TestCase;
+
+@Configuration
+@EnableAutoConfiguration
+public class AlbumRepositoryTest extends TestCase {
+
+	@Test
+	public void testCreateAlbum() {
+		
+	}
+
+}

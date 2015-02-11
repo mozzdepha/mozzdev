@@ -1,0 +1,55 @@
+package com.mozz.recordcollection.repositories;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.context.ConfigurableApplicationContext;
+import org.springframework.context.annotation.Configuration;
+
+import com.mozz.recordcollection.App;
+import com.mozz.recordcollection.entities.Album;
+
+@Configuration
+@EnableAutoConfiguration
+public class AlbumRespositoryTestDataCreator {
+
+	
+	// TODO: how to do this via JUNIT given all the autowiring gubbins?
+  public static void main(String[] args) {
+
+      ConfigurableApplicationContext context = SpringApplication.run(App.class);
+      AlbumRepository repository = context.getBean(AlbumRepository.class);
+
+      // save a couple of albums
+      repository.save(new Album("Thriller", 1983));
+      repository.save(new Album("Rubber Soul", 1964));
+      repository.save(new Album("Random Access Memories", 2014));
+
+
+      // fetch all albums
+      Iterable<Album> albums = repository.findAll();
+      System.out.println("Albums found with findAll():");
+      System.out.println("-------------------------------");
+      for (Album album : albums) {
+          System.out.println(album);
+      }
+      System.out.println();
+
+      // fetch an individual album by ID
+      Albumcustomer = repository.findOne(1L);
+      System.out.println("Album found with findOne(1L):");
+      System.out.println("--------------------------------");
+      System.out.println(album);
+      System.out.println();
+
+      // fetch album by title
+      List<Album> thriller = repository.findByTitle("Thriller");
+      System.out.println("Customer found with findByLastName('Bauer'):");
+      System.out.println("--------------------------------------------");
+      for (Customer bauer : bauers) {
+          System.out.println(bauer);
+      }
+
+      context.close();
+  }
+
+}

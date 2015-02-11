@@ -1,0 +1,5 @@
+package com.mozz.recordcollection.repositories;
+
+public class AlbumRepository {
+
+}

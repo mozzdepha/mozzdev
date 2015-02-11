@@ -1,0 +1,9 @@
+package com.mozz.recordcollection.repositories;
+
+import org.springframework.data.repository.PagingAndSortingRepository;
+
+import com.mozz.springboottest.Customer;
+
+public class AlbumRepository extends PagingAndSortingRepository<Album, Long> { 
+
+}
