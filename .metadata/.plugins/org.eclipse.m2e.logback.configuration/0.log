@@ -681,3 +681,8 @@ java.io.FileNotFoundException: /Users/tim/Documents/mozzdev/.metadata/.plugins/o
 2015-02-18 13:49:46,972 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
 2015-02-18 13:49:46,974 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-02-18 13:49:46,974 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/test/resources
+2015-02-18 14:02:23,779 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:02:23,779 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-18 14:02:23,779 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/main/resources
+2015-02-18 14:02:23,780 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:02:23,780 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tim/Documents/mozzdev/springboottest/src/test/resources
