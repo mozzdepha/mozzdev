@@ -37,10 +37,7 @@ public class AppTest
     }
     
     public void testFailureForGit() {
-    	assertTrue(true);
+    	assertTrue(false);
     }
-    
-    public void testFailureForGit2() {
-    	assertTrue(true);
-    }
+
 }
