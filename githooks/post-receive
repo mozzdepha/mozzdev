@@ -1,0 +1,5 @@
+#!bin/sh
+echo post-receive started
+curl http://localhost:8080/git/notifyCommit?url=https://github.com/mozzdepha/mozzdev
+touch /Users/tim/Documents/mozzdev/.git/hooks/post-receive.log
+echo post-receive completed
